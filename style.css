@@ -1,0 +1,40 @@
+header {
+    height: 10%;
+    width: 100%;
+    background-color: blue;
+}
+
+h1 {
+    color: white;
+}
+
+footer {
+    height: 13%;
+    background-color: black;
+}
+
+p {
+    color: red;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+}
+
+h2 {
+    color: red;
+    text-shadow: 50px 10px;
+}
+
+.intro {
+    color: orange;
+}
+
+.second {
+    color: yellow;
+}
+
+a {
+    color: green;
+}
